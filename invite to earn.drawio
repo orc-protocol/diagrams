@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T06:41:39.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="X1kpfAYaX77lTRySYzQ6" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T06:52:20.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FbsXltV3p2XsVHN_KB46" version="21.3.4" type="github">
   <diagram name="Page-1" id="6GlVuKynumtq-shXMLqh">
-    <mxGraphModel dx="596" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="596" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,9 +13,9 @@
             <mxPoint x="320" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gyV6YkFJSRtz5AW3rl4r-3" value="&lt;b&gt;Step1: &lt;/b&gt;Invite 20 addrs to join" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gyV6YkFJSRtz5AW3rl4r-2">
+        <mxCell id="gyV6YkFJSRtz5AW3rl4r-3" value="&lt;b&gt;Step1: &lt;/b&gt;Invite 20 addresses to claim $orcp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gyV6YkFJSRtz5AW3rl4r-2">
           <mxGeometry x="-0.3918" y="1" relative="1" as="geometry">
-            <mxPoint x="40" y="-11" as="offset" />
+            <mxPoint x="34" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gyV6YkFJSRtz5AW3rl4r-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Addr 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
